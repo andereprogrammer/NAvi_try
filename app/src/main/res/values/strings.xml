@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NAvi_try</string>
+    <string name="result">Result</string>
+    <string name="job">Job</string>
+    <string name="profit">Profit</string>
+    <string name="mi">mine</string>
+    <string name="baby">baby</string>
+    <string name="to">TODO</string>
+    <string name="navi_gate">Open_navigation_draw</string>
+    <string name="navi_gate_close">Close_navigation_draw</string>
+    <string name="onefive">1.5</string>
+    <string name="one">1.1</string>
+    <string name="foil_cost">FOil cost</string>
+    <string name="ht_cost">HT cost</string>
+    <string name="wt_qty">Wt/Qty</string>
+    <string name="transportcost_kg">Transportcost/Kg</string>
+    <string name="sdf">Shortblasting</string>
+    <string name="calculate">Calculate</string>
+    <string name="more">More</string>
+    <string name="die_cost">Die cost</string>
+    <string name="htcost">Htcost</string>
+    <string name="foil">Foil</string>
+    <string name="transport">Transport</string>
+    <string name="rmvalue">RMvalue</string>
+    <string name="oil_head">oil head</string>
+</resources>

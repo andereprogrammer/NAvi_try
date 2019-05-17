@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context=".all_other">
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/more" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginBottom="-45dp"
+        android:text="DIE COST" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginBottom="-111dp"
+        android:text="FOILRATE" />
+
+    <TextView
+        android:id="@+id/recieve1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginBottom="-182dp"
+        android:text="TRANSPORTCOST" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginBottom="-267dp"
+        android:text="FURNANCE IN LTRS" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginBottom="-417dp"
+        android:text="WT?QTY" />
+
+    <TextView
+        android:id="@+id/recieve2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginBottom="-481dp"
+        android:text="@string/oil_head" />
+
+    <EditText
+        android:id="@+id/edit_diecs"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView24"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="-61dp"
+        android:inputType="number"
+        tools:ignore="Autofill,LabelFor" />
+
+    <EditText
+        android:id="@+id/editText21_hd"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView24"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginRight="3dp"
+        android:layout_marginBottom="-482dp"
+        android:inputType="number"
+        tools:ignore="Autofill,LabelFor" />
+
+    <EditText
+        android:id="@+id/editText10_ndie"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView24"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="-126dp"
+        android:inputType="number"
+        tools:ignore="Autofill,LabelFor" />
+
+    <EditText
+        android:id="@+id/editText17_trcs"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView24"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="-200dp"
+        android:inputType="number|numberDecimal"
+        tools:ignore="Autofill,LabelFor" />
+
+    <EditText
+        android:id="@+id/editText18_foil"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView24"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="-289dp"
+        android:inputType="number"
+        tools:ignore="Autofill,LabelFor" />
+
+    <EditText
+        android:id="@+id/editText20_wtqty"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView24"
+        android:layout_alignBottom="@+id/textView24"
+        android:layout_marginRight="6dp"
+        android:layout_marginBottom="-422dp"
+        android:inputType="number"
+        tools:ignore="Autofill,LabelFor" />
+
+    <Button
+        android:id="@+id/Calculate_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/recieve2"
+        android:layout_alignBottom="@+id/recieve2"
+        android:layout_marginRight="-161dp"
+        android:layout_marginBottom="-63dp"
+        android:text="@string/calculate"
+        tools:ignore="Autofill,LabelFor" />
+
+
+</RelativeLayout>

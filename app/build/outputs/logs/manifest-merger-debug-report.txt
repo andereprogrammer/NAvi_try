@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\9df7f090288460c9543f7d77ce9183b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\f43727b76bef128d457d7b1d602d017a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\790fd97df26a6cd0a75bab896f673066\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\3bc1fea8738eb93d0b64174135d7a9d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\be18019590f6c57ef078a2911d471a73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\d6ff657cb674a267d6c9b899ee0a71e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\306477199e11d3dc57976af2950f4b54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\f4c4145bc26efd4ed2cbb64da0341f35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\8531c548c5203e118cb64e16d4d1fd26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\4445a2737fddf97b82347acbbf1f0fc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\6738035016c3707f082c6f58080c03f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\5a2c1f217946a00f1588f63b7f91f4c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\bb7337a647067ca12f4d34bff96136f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\34afa54b100dfc504ce10702124ac9ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\a2d4e11b82a901f28dc20048818d9541\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\b9ca6288bead96820cf89751a85b416a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\ae6716292c8c650b6779e87ae7f8bc9c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\790fd97df26a6cd0a75bab896f673066\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\790fd97df26a6cd0a75bab896f673066\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:11:9-40
+activity#in.co.bestforgins.www.navi_try.all_other
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:12:9-56
+	android:name
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:12:19-44
+activity#in.co.bestforgins.www.navi_try.MainActivity
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:theme
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:19:27-74
+activity#in.co.bestforgins.www.navi_try.Job
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:22:9-41
+	android:name
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:22:19-38
+activity#in.co.bestforgins.www.navi_try.Profit_loss
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:23:19-46
+activity#in.co.bestforgins.www.navi_try.Final
+ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml:24:19-40
+uses-sdk
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\9df7f090288460c9543f7d77ce9183b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\9df7f090288460c9543f7d77ce9183b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\f43727b76bef128d457d7b1d602d017a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\f43727b76bef128d457d7b1d602d017a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\790fd97df26a6cd0a75bab896f673066\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\790fd97df26a6cd0a75bab896f673066\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\3bc1fea8738eb93d0b64174135d7a9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\3bc1fea8738eb93d0b64174135d7a9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\be18019590f6c57ef078a2911d471a73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\be18019590f6c57ef078a2911d471a73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\d6ff657cb674a267d6c9b899ee0a71e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\d6ff657cb674a267d6c9b899ee0a71e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\306477199e11d3dc57976af2950f4b54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\306477199e11d3dc57976af2950f4b54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\f4c4145bc26efd4ed2cbb64da0341f35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\f4c4145bc26efd4ed2cbb64da0341f35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\8531c548c5203e118cb64e16d4d1fd26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\8531c548c5203e118cb64e16d4d1fd26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\4445a2737fddf97b82347acbbf1f0fc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\4445a2737fddf97b82347acbbf1f0fc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\6738035016c3707f082c6f58080c03f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\6738035016c3707f082c6f58080c03f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\5a2c1f217946a00f1588f63b7f91f4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\5a2c1f217946a00f1588f63b7f91f4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\bb7337a647067ca12f4d34bff96136f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\bb7337a647067ca12f4d34bff96136f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\34afa54b100dfc504ce10702124ac9ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\34afa54b100dfc504ce10702124ac9ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\a2d4e11b82a901f28dc20048818d9541\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\a2d4e11b82a901f28dc20048818d9541\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\b9ca6288bead96820cf89751a85b416a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\b9ca6288bead96820cf89751a85b416a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\ae6716292c8c650b6779e87ae7f8bc9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Keshav\.gradle\caches\transforms-2\files-2.1\ae6716292c8c650b6779e87ae7f8bc9c\AndroidManifest.xml:20:5-44
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+		ADDED from D:\NAvi_try\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NAvi_try\app\src\main\AndroidManifest.xml

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"  >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profit"
+            android:icon="@drawable/ic_profit"
+            android:title="@string/profit" />
+        <item
+            android:id="@+id/nav_dayjob"
+            android:icon="@drawable/ic_dayjob"
+            android:title="@string/job" />
+        <item
+            android:id="@+id/nav_viewed"
+            android:icon="@drawable/ic_viwed"
+            android:title="@string/result" />
+
+    </group>
+
+</menu>
